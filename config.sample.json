@@ -1,0 +1,11 @@
+{
+  "neg_threshold": -0.3,
+  "pos_threshold": 0.3,
+  "headline_weight": 0.7,
+  "snippet_weight": 0.3,
+  "applicant_weight": 0.5,
+  "sector_weight": 0.3,
+  "market_weight": 0.2
+}
+
+
